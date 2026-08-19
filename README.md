@@ -1,19 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Waqas%20Mehmood&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Principal%20Software%20Engineer%20%C2%B7%20Team%20Lead%20%C2%B7%20Founder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,25:0052cc,50:6f42c1,75:e34c26,100:1a1b27&height=220&section=header&text=Waqas%20Mehmood&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Principal%20Software%20Engineer%20%C2%B7%20Team%20Lead%20%C2%B7%20Founder&descSize=18&descColor=58a6ff&descAlignY=55&animation=fadeIn" width="100%" />
 
-[![Website](https://img.shields.io/badge/slashbrain.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://slashbrain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/waqas-mehmood--/)
-[![Email](https://img.shields.io/badge/hello@slashbrain.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:hello@slashbrain.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=30&lines=web+apps+%C2%B7+APIs+%C2%B7+AI+agents+%C2%B7+e-commerce+%C2%B7+SaaS+%C2%B7+healthcare" />
 
-[![GitHub followers](https://img.shields.io/github/followers/waqasmehmud?style=flat&color=161b22&labelColor=0d1117&logo=github&logoColor=58a6ff)](https://github.com/waqasmehmud)
-![Profile views](https://komarev.com/ghpvc/?username=waqasmehmud&color=161b22&style=flat&label=Profile+Views)
+[![Website](https://img.shields.io/badge/🌐_SLASHBRAIN.COM-0052cc?style=for-the-badge)](https://slashbrain.com)
+[![Agency](https://img.shields.io/badge/✏️_AGENCY-2ea44f?style=for-the-badge)](https://slashbrain.com)
+[![Slash Brain](https://img.shields.io/badge/SLASH_BRAIN-e34c26?style=for-the-badge)](https://slashbrain.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0052cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
+[![Connect](https://img.shields.io/badge/CONNECT-0052cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
+
+[![Email](https://img.shields.io/badge/📧_HELLO@SLASHBRAIN.COM-d93025?style=for-the-badge)](mailto:hello@slashbrain.com)
+
+[![GitHub followers](https://img.shields.io/github/followers/waqasmehmud?style=flat&color=0052cc&labelColor=1a1b27&logo=github&logoColor=white&label=followers)](https://github.com/waqasmehmud)
+![Profile views](https://komarev.com/ghpvc/?username=waqasmehmud&color=0052cc&style=flat&label=Profile+Views)
+[![Open to work](https://img.shields.io/badge/Open_to_work-Yes-2ea44f?style=flat)](mailto:hello@slashbrain.com)
+[![Based in](https://img.shields.io/badge/Based_in-Pakistan-0052cc?style=flat)](https://slashbrain.com)
 
 </div>
 
 ---
 
-## About
+## ⚡ About
 
 I'm a **Principal Software Engineer** and the **Founder of [Slash Brain](https://slashbrain.com)** — a full-stack development agency that ships web apps, APIs, e-commerce, AI agents, and internal tooling for clients across **30+ countries**.
 
@@ -35,96 +43,97 @@ const waqas = {
 
 ---
 
-## Shipped Products & Platforms
+## 🚀 Live Products
 
 > _Production systems running real businesses today._
 
-| 🤖 [Wazii](https://wazii.net) **AI Trading Bot & Stock Analysis** — automated trading strategies for the Pakistan Stock Exchange, real-time market insights, portfolio analytics, investor dashboards. Python · Django · DRF · Next.js · PostgreSQL · Alpaca APIs | 🏥 [247MediPlus](https://247mediplus.com) **Telemedicine & Healthcare Platform** — patient bookings, online consultations, health records, Stripe subscriptions, Laravel Nova admin, AWS S3 storage. Laravel · Nova · MySQL · Stripe · AWS · GitHub Actions |
+| 🤖 [Wazii](https://wazii.net) **AI Trading Bot & Stock Analysis** — automated trading strategies for the Pakistan Stock Exchange, real-time market insights, portfolio analytics, investor dashboards. Python · Django · DRF · Next.js · PostgreSQL · Alpaca APIs 🔗 **[wazii.net →](https://wazii.net)** | 🏥 [247MediPlus](https://247mediplus.com) **Telemedicine & Healthcare Platform** — patient bookings, online consultations, health records, Stripe subscriptions, Laravel Nova admin, AWS S3 storage. Laravel · Nova · MySQL · Stripe · AWS · GitHub Actions 🔗 **[247mediplus.com →](https://247mediplus.com)** |
 | :--- | :--- |
 | 🧠 SparkLab.ai Dashboard **AI Solutions Platform** — multilingual abusive language detection, dynamic e-commerce chatbot, star-to-text converter, user/service/subscription management with custom ACL. Laravel 9 · MySQL · Sanctum Auth | 🎨 4ART **Blockchain Art Authentication** — forgery-proof digital passports for artworks, collection management, provenance tracking. Led a team of 4 engineers across iOS, Android, ReactNative, and web. Docker · Laravel · OpenCV · S3 · SQS · ElasticSearch · Ethereum Web3 · Stripe |
 | 👏 Workhub: Bravo **Employee Recognition Platform** — social media for teams, messaging, gamification, rewards management, timeline feeds. PHP · Laravel · MySQL · AngularJS | 🩺 BeatDiabetes **Patient Health Platform** — multi-programme support for diabetic patients, custom ACL, patient management, periodic reminders, admin dashboards. Symfony · MySQL · SonataAdmin |
-| ⭐ Ekomi: Smart Review Request **Review Collection System** — email & SMS campaigns, review response management, handling millions of records at scale. PHP · Laravel · MySQL · RabbitMQ | 🚀 [Slash Brain](https://slashbrain.com) **My development agency** — web apps, APIs, e-commerce, mobile, AI chatbots & agents. 50+ shipped platforms, clients in 30+ countries. |
+| ⭐ Ekomi: Smart Review Request **Review Collection System** — email & SMS campaigns, review response management, handling millions of records at scale. PHP · Laravel · MySQL · RabbitMQ | 🚀 [Slash Brain](https://slashbrain.com) **My development agency** — web apps, APIs, e-commerce, mobile, AI chatbots & agents. 50+ shipped platforms, clients in 30+ countries. 🔗 **[slashbrain.com →](https://slashbrain.com)** |
 
 ---
 
-## Slash Brain — The Agency
+## 🏢 Brands I Run
 
-| 🚀 [Slash Brain](https://slashbrain.com) **Full-Stack Dev Agency** Web apps · APIs · E-commerce · AI Agents Clients in 30+ countries | 🛒 E-Commerce **Shopify · WooCommerce · Marketplaces** Envomart · Nexcart | 🤖 AI & Automation **Custom chatbots · Sales assistants** Internal tools · Groq/OpenAI | 🏥 Healthcare **Telemedicine · Clinical workflows** 247MediPlus · BeatDiabetes |
+| 🚀 [Slash Brain](https://slashbrain.com) **Full-Stack Dev Agency** Web apps · APIs · E-commerce · AI Agents 50+ platforms · 30+ countries | 🛒 E-Commerce **Shopify · WooCommerce · Marketplaces** Envomart · Nexcart · Custom stores | 🤖 AI & Automation **Custom chatbots · Sales assistants** Internal tools · OpenAI · Groq | 🏥 Healthcare **Telemedicine · Clinical workflows** 247MediPlus · BeatDiabetes |
 | :--- | :--- | :--- | :--- |
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Frameworks**
 
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
-![Symfony](https://img.shields.io/badge/Symfony-0d1117?style=for-the-badge&logo=symfony&logoColor=white)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![WordPress](https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **Backend, Databases & Infra**
 
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=005571)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=github-actions&logoColor=2088FF)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Payments & Integrations**
 
-![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=for-the-badge&logo=stripe&logoColor=008CDD)
-![PayPal](https://img.shields.io/badge/PayPal-0d1117?style=for-the-badge&logo=paypal&logoColor=00457C)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Twilio](https://img.shields.io/badge/Twilio-0d1117?style=for-the-badge&logo=twilio&logoColor=F22F46)
-![Shopify](https://img.shields.io/badge/Shopify-0d1117?style=for-the-badge&logo=shopify&logoColor=7AB55C)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=waqasmehmud&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasmehmud&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=waqasmehmud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasmehmud&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasmehmud&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasmehmud&theme=tokyonight&hide_border=true&background=1a1b27&stroke=30363d&ring=58a6ff&fire=e34c26&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="60%" />
 
 </div>
 
 ---
 
-## Trophies
+## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=waqasmehmud&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=waqasmehmud&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 
 </div>
 
 ---
 
-## Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waqasmehmud&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=161b22" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=waqasmehmud&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=e34c26&area=true&area_color=0052cc" width="100%" />
 
 </div>
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -138,7 +147,7 @@ const waqas = {
 
 ---
 
-## Currently
+## 🎯 Currently
 
 - 🚀 Scaling **[Slash Brain](https://slashbrain.com)** — shipping for 50+ clients worldwide
 - 🤖 Building **AI chatbots & agents** for sales, support, and internal automation
@@ -148,15 +157,15 @@ const waqas = {
 
 ---
 
-## Let's Build Something
+## 🤝 Let's Build Something
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/slashbrain.com-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://slashbrain.com)
+[![Website](https://img.shields.io/badge/🌐_slashbrain.com-0052cc?style=for-the-badge)](https://slashbrain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
-[![Email](https://img.shields.io/badge/hello@slashbrain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@slashbrain.com)
+[![Email](https://img.shields.io/badge/hello@slashbrain.com-d93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@slashbrain.com)
 [![Phone](https://img.shields.io/badge/+92_315_6577282-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923156577282)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,25:0052cc,50:6f42c1,75:e34c26,100:1a1b27&height=120&section=footer" width="100%" />
