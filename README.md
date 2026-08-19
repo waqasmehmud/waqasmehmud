@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Waqas%20Mehmood&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Principal%20Software%20Engineer%20%C2%B7%20Team%20Lead%20%C2%B7%20Founder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&repeat=true&width=700&height=30&lines=web+apps+%C2%B7+APIs+%C2%B7+AI+agents+%C2%B7+e-commerce+%C2%B7+healthcare+%C2%B7+SaaS+%C2%B7+FinTech" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+software+that+replaces+manual+work.;PHP+%C2%B7+Laravel+%C2%B7+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;AI+agents+%C2%B7+e-commerce+%C2%B7+healthcare+%C2%B7+SaaS+%C2%B7+FinTech;Founder+%40+Slash+Brain+%C2%B7+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Shipping+is+the+only+metric+that+matters." />
 
 [![Website](https://img.shields.io/badge/slashbrain.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://slashbrain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
@@ -10,7 +10,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/waqasmehmud?style=flat-square&label=Followers&color=58A6FF)
 ![Profile views](https://komarev.com/ghpvc/?username=waqasmehmud&color=58A6FF&style=flat-square&label=Profile+Views)
-![Open to work](https://img.shields.io/badge/Open_to_work-Yes-3FB950?style=flat-square)
+![Open to work](https://img.shields.io/badge/Open_to_work-Yes-58A6FF?style=flat-square)
 ![Based in](https://img.shields.io/badge/Based_in-Pakistan-1F6FEB?style=flat-square)
 
 </div>
