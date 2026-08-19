@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1a1b6b,40:4b0082,60:8b2252,80:c62828,100:0d1117&height=220&section=header&text=Waqas%20Mehmood&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Principal%20Software%20Engineer%20%C2%B7%20Team%20Lead%20%C2%B7%20Founder&descSize=18&descColor=58a6ff&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Waqas%20Mehmood&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Principal%20Software%20Engineer%20%C2%B7%20Team%20Lead%20%C2%B7%20Founder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&repeat=true&width=700&height=30&lines=web+apps+%C2%B7+APIs+%C2%B7+AI+agents+%C2%B7+e-commerce+%C2%B7+healthcare+%C2%B7+SaaS+%C2%B7+FinTech" />
 
-[![Website](https://img.shields.io/badge/Website-slashbrain.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://slashbrain.com)
-[![Slash Brain](https://img.shields.io/badge/Agency-Slash_Brain-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://slashbrain.com)
+[![Website](https://img.shields.io/badge/slashbrain.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://slashbrain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
-[![Email](https://img.shields.io/badge/hello@slashbrain.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@slashbrain.com)
+[![Email](https://img.shields.io/badge/waqasmehmud@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasmehmud@gmail.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/waqasmehmud?style=flat-square&label=Followers&color=58A6FF)
 ![Profile views](https://komarev.com/ghpvc/?username=waqasmehmud&color=58A6FF&style=flat-square&label=Profile+Views)
@@ -181,29 +180,6 @@ Internal tools · OpenAI · Groq
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=waqasmehmud&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasmehmud&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasmehmud&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=FF6B6B&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="60%" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=waqasmehmud&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -250,4 +226,4 @@ Internal tools · OpenAI · Groq
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1a1b6b,40:4b0082,60:8b2252,80:c62828,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
