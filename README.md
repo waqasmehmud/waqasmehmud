@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Waqas%20Mehmood&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Principal%20Software%20Engineer%20%C2%B7%20Team%20Lead%20%C2%B7%20Founder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Waqas%20Mehmood&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Team%20Lead&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+software+that+replaces+manual+work.;PHP+%C2%B7+Laravel+%C2%B7+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;AI+agents+%C2%B7+e-commerce+%C2%B7+healthcare+%C2%B7+SaaS+%C2%B7+FinTech;Founder+%40+Slash+Brain+%C2%B7+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Shipping+is+the+only+metric+that+matters." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+software+that+replaces+manual+work.;PHP+%C2%B7+Laravel+%C2%B7+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;AI+agents+%C2%B7+e-commerce+%C2%B7+healthcare+%C2%B7+SaaS+%C2%B7+FinTech;Based+in+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Shipping+is+the+only+metric+that+matters." />
 
-[![Website](https://img.shields.io/badge/slashbrain.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://slashbrain.com)
+[![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://slashbrain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
 [![Email](https://img.shields.io/badge/waqasmehmud@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasmehmud@gmail.com)
 
@@ -19,14 +19,13 @@
 
 ## ⚡ About
 
-I'm a **Principal Software Engineer** and the **Founder of [Slash Brain](https://slashbrain.com)** — a full-stack development agency that ships web apps, APIs, e-commerce, AI agents, and internal tooling for clients across **30+ countries**.
+I'm a **Software Engineer** and **Team Lead** — I build and ship web apps, APIs, e-commerce platforms, AI agents, and internal tooling for clients across **30+ countries**.
 
 **16+ years** of building production systems across **E-Commerce, HealthCare, FinTech, AI, and SaaS**. I lead engineering teams, design architecture, and make sure things actually ship. **No slideware — shipped products that run businesses.**
 
 ```ts
 const waqas = {
-  role:     "Principal Software Engineer · Team Lead · Founder",
-  company:  "Slash Brain",
+  role:     "Software Engineer · Team Lead",
   basedIn:  "Pakistan 🇵🇰",
   stack:    ["PHP", "Laravel", "Python", "Django", "React", "Next.js", "Node.js"],
   db:       ["MySQL", "PostgreSQL", "ElasticSearch"],
@@ -108,47 +107,16 @@ const waqas = {
 
 </td><td width="50%" valign="top">
 
-### 🚀 [Slash Brain](https://slashbrain.com)
-**My development agency** — web apps, APIs, e-commerce, mobile, AI chatbots & agents. 50+ shipped platforms, clients in 30+ countries.
+### 🛒 Envomart & Nexcart
+**E-commerce & marketplace builds** — Shopify storefronts and Laravel multi-vendor marketplaces with payment integrations.
 
-`Laravel` · `React` · `Node` · `WordPress` · `Shopify`
+`Shopify` · `Laravel` · `React` · `Payments`
 
-🔗 **[slashbrain.com →](https://slashbrain.com)**
-
-</td></tr></table>
-
-> **Also shipped:** Envomart (Shopify), Nexcart (Laravel marketplace), and 50+ more platforms in private repos.
-
----
-
-## 🏢 Brands I Run
-
-<table><tr><td width="25%" valign="top">
-
-### 🚀 [Slash Brain](https://slashbrain.com)
-**Development Agency**
-Web apps · APIs · E-commerce · AI Agents
-Pakistan → Worldwide
-
-</td><td width="25%" valign="top">
-
-### 🛒 E-Commerce
-**Shopify · WooCommerce · Marketplaces**
-Envomart · Nexcart · Custom stores
-
-</td><td width="25%" valign="top">
-
-### 🤖 AI & Automation
-**Custom chatbots · Sales assistants**
-Internal tools · OpenAI · Groq
-
-</td><td width="25%" valign="top">
-
-### 🏥 Healthcare
-**Telemedicine · Clinical workflows**
-247MediPlus · BeatDiabetes
+🔒 Client-owned · private
 
 </td></tr></table>
+
+> **Also shipped:** 50+ more platforms in private repos across healthcare, fintech, and SaaS.
 
 ---
 
@@ -206,11 +174,9 @@ Internal tools · OpenAI · Groq
 
 ## 🎯 Currently
 
-- 🚀 Scaling **[Slash Brain](https://slashbrain.com)** — shipping for 50+ clients worldwide
 - 🤖 Building **AI chatbots & agents** for sales, support, and internal automation
 - 🏥 Maintaining **247MediPlus** — telemedicine platform with Stripe subscriptions
 - 📈 Leading engineering teams across **Laravel, React, Django, and Node**
-- 🏗️ Hiring & training the **Slash Brain** team
 - 💬 Open to **freelance · agency partnerships · long-term contracts**
 
 ---
@@ -219,9 +185,8 @@ Internal tools · OpenAI · Groq
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-slashbrain.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://slashbrain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
-[![Email](https://img.shields.io/badge/hello@slashbrain.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@slashbrain.com)
+[![Email](https://img.shields.io/badge/waqasmehmud@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasmehmud@gmail.com)
 [![Phone](https://img.shields.io/badge/+92_315_6577282-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923156577282)
 
 </div>
