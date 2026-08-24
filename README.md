@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Waqas%20Mehmood&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Team%20Lead&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Waqas%20Mehmood&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+software+that+replaces+manual+work.;PHP+%C2%B7+Laravel+%C2%B7+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;AI+agents+%C2%B7+e-commerce+%C2%B7+healthcare+%C2%B7+SaaS+%C2%B7+FinTech;Based+in+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Shipping+is+the+only+metric+that+matters." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+software+that+replaces+manual+work.;PHP+%C2%B7+Laravel+%C2%B7+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;AI+agents+%C2%B7+e-commerce+%C2%B7+healthcare+%C2%B7+SaaS+%C2%B7+FinTech;Shipping+is+the+only+metric+that+matters." />
 
 [![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://slashbrain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
@@ -11,22 +11,20 @@
 ![GitHub followers](https://img.shields.io/github/followers/waqasmehmud?style=flat-square&label=Followers&color=58A6FF)
 ![Profile views](https://komarev.com/ghpvc/?username=waqasmehmud&color=58A6FF&style=flat-square&label=Profile+Views)
 ![Open to work](https://img.shields.io/badge/Open_to_work-Yes-58A6FF?style=flat-square)
-![Based in](https://img.shields.io/badge/Based_in-Pakistan-1F6FEB?style=flat-square)
 
 </div>
 
 ---
 
-## ⚡ About
+## About
 
-I'm a **Software Engineer** and **Team Lead** — I build and ship web apps, APIs, e-commerce platforms, AI agents, and internal tooling for clients across **30+ countries**.
+I'm a **Full Stack Developer** — I build and ship web apps, APIs, e-commerce platforms, AI agents, and internal tooling for clients across **30+ countries**.
 
 **16+ years** of building production systems across **E-Commerce, HealthCare, FinTech, AI, and SaaS**. I lead engineering teams, design architecture, and make sure things actually ship. **No slideware — shipped products that run businesses.**
 
 ```ts
 const waqas = {
-  role:     "Software Engineer · Team Lead",
-  basedIn:  "Pakistan 🇵🇰",
+  role:     "Full Stack Developer",
   stack:    ["PHP", "Laravel", "Python", "Django", "React", "Next.js", "Node.js"],
   db:       ["MySQL", "PostgreSQL", "ElasticSearch"],
   cloud:    ["AWS EC2", "ECS", "S3", "SQS", "Docker"],
@@ -38,81 +36,81 @@ const waqas = {
 
 ---
 
-## 🚀 Live Products
+## Live Products
 
 > *Production systems you can actually open and use today.*
 
 <table><tr><td width="50%" valign="top">
 
-### 🤖 [Wazii](https://wazii.net)
+### [Wazii](https://wazii.net)
 **AI Trading Bot & Stock Analysis** — automated trading strategies for the Pakistan Stock Exchange, real-time market insights, portfolio analytics, investor dashboards.
 
 `Python` · `Django` · `DRF` · `Next.js` · `PostgreSQL` · `Alpaca APIs`
 
-🔗 **[wazii.net →](https://wazii.net)**
+**[wazii.net →](https://wazii.net)**
 
 </td><td width="50%" valign="top">
 
-### 🏥 [247MediPlus](https://247mediplus.com)
+### [247MediPlus](https://247mediplus.com)
 **Telemedicine & Healthcare Platform** — patient bookings, online consultations, health records, **Stripe subscriptions**, Laravel Nova admin, AWS S3 storage, automated deployments.
 
 `Laravel` · `Nova` · `MySQL` · `Stripe` · `AWS S3` · `GitHub Actions`
 
-🔗 **[247mediplus.com →](https://247mediplus.com)**
+**[247mediplus.com →](https://247mediplus.com)**
 
 </td></tr><tr><td width="50%" valign="top">
 
-### 🧠 SparkLab.ai Dashboard
+### SparkLab.ai Dashboard
 **AI Solutions Platform** — multilingual abusive language detection, dynamic e-commerce chatbot, star-to-text converter, user/service/subscription management with custom ACL.
 
 `Laravel 9` · `MySQL` · `Sanctum Auth` · `Custom ACL`
 
-🔒 Client-owned · private
+Client-owned · private
 
 </td><td width="50%" valign="top">
 
-### 🎨 4ART
+### 4ART
 **Blockchain Art Authentication** — forgery-proof digital passports for artworks, collection management, provenance tracking. Led a team of 4 engineers across iOS, Android, ReactNative, and web.
 
 `Docker` · `Laravel` · `OpenCV` · `S3` · `SQS` · `ElasticSearch` · `Ethereum Web3` · `Stripe`
 
-🔒 Client-owned · private
+Client-owned · private
 
 </td></tr><tr><td width="50%" valign="top">
 
-### 👏 Workhub: Bravo
+### Workhub: Bravo
 **Employee Recognition Platform** — social media for teams, messaging, gamification, rewards management, timeline feeds.
 
 `PHP` · `Laravel` · `MySQL` · `AngularJS`
 
-🔒 Client-owned · private
+Client-owned · private
 
 </td><td width="50%" valign="top">
 
-### 🩺 BeatDiabetes
+### BeatDiabetes
 **Patient Health Platform** — multi-programme support for diabetic patients, custom ACL, patient management, periodic reminders, admin dashboards.
 
 `Symfony 3.4` · `MySQL` · `SonataAdmin` · `MailJet`
 
-🔒 Client-owned · private
+Client-owned · private
 
 </td></tr><tr><td width="50%" valign="top">
 
-### ⭐ Ekomi: Smart Review Request
+### Ekomi: Smart Review Request
 **Review Collection System** — email & SMS campaigns, review response management, handling millions of records at scale.
 
 `PHP` · `Laravel` · `MySQL` · `RabbitMQ`
 
-🔒 Client-owned · private
+Client-owned · private
 
 </td><td width="50%" valign="top">
 
-### 🛒 Envomart & Nexcart
+### Envomart & Nexcart
 **E-commerce & marketplace builds** — Shopify storefronts and Laravel multi-vendor marketplaces with payment integrations.
 
 `Shopify` · `Laravel` · `React` · `Payments`
 
-🔒 Client-owned · private
+Client-owned · private
 
 </td></tr></table>
 
@@ -120,7 +118,7 @@ const waqas = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -148,7 +146,7 @@ const waqas = {
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -158,7 +156,7 @@ const waqas = {
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -171,24 +169,5 @@ const waqas = {
 </div>
 
 ---
-
-## 🎯 Currently
-
-- 🤖 Building **AI chatbots & agents** for sales, support, and internal automation
-- 🏥 Maintaining **247MediPlus** — telemedicine platform with Stripe subscriptions
-- 📈 Leading engineering teams across **Laravel, React, Django, and Node**
-- 💬 Open to **freelance · agency partnerships · long-term contracts**
-
----
-
-## 🤝 Let's Build Something
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
-[![Email](https://img.shields.io/badge/waqasmehmud@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasmehmud@gmail.com)
-[![Phone](https://img.shields.io/badge/+92_315_6577282-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923156577282)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
