@@ -38,95 +38,65 @@ const waqas = {
 
 ## Live Products
 
-> *Production systems you can actually open and use today.*
+> *Savage Ventures — high-traffic media sites on WordPress VIP.*
 
-### Savage Ventures — WordPress VIP
-
-High-traffic media sites on **WordPress VIP**. Shipped product work that moved audience and ad performance at scale:
-
-- **One Tap** — implemented Google One Tap login, which lifted traffic into the **millions**
-- **Media libraries** — made high-traffic media libraries extremely fast and increased audience impressions
-- **Tracking pixels** — Meta, Spotify, Reddit, TikTok, and more, so traffic and conversions could be measured and grown across the network
-
-**Sites:** [VICE](https://www.vice.com/) · [American Songwriter](https://americansongwriter.com/) · [PopCulture](https://popculture.com/) · [ComicBook](https://comicbook.com/) · [InspireMore](https://www.inspiremore.com/) · [Sporked](https://sporked.com/)
-
-`WordPress VIP` · `PHP` · `Google One Tap` · `Media Library` · `Meta Pixel` · `TikTok` · `Reddit` · `Spotify`
+Shipped **Google One Tap** across the network (traffic lift into the **millions**), sped up high-traffic **media libraries** to increase audience impressions, and rolled out tracking pixels (**Meta, Spotify, Reddit, TikTok**, and more) so traffic and conversions could be measured and grown.
 
 <table><tr><td width="50%" valign="top">
 
-### [Wazii](https://wazii.net)
-**AI Trading Bot & Stock Analysis** — automated trading strategies for the Pakistan Stock Exchange, real-time market insights, portfolio analytics, investor dashboards.
+### [VICE](https://www.vice.com/)
+**Culture & news media** — WordPress VIP engineering for a global publisher: One Tap login, fast media libraries at high traffic, and pixel integrations that grew measurable audience.
 
-`Python` · `Django` · `DRF` · `Next.js` · `PostgreSQL` · `Alpaca APIs`
+`WordPress VIP` · `PHP` · `Google One Tap` · `Media Library` · `Pixels`
 
-**[wazii.net →](https://wazii.net)**
+**[vice.com →](https://www.vice.com/)**
 
 </td><td width="50%" valign="top">
 
-### [247MediPlus](https://247mediplus.com)
-**Telemedicine & Healthcare Platform** — patient bookings, online consultations, health records, **Stripe subscriptions**, Laravel Nova admin, AWS S3 storage, automated deployments.
+### [American Songwriter](https://americansongwriter.com/)
+**Music journalism platform** — WordPress VIP work for artist features, songwriting coverage, and high-volume media with One Tap and tracking pixels for audience growth.
 
-`Laravel` · `Nova` · `MySQL` · `Stripe` · `AWS S3` · `GitHub Actions`
+`WordPress VIP` · `PHP` · `Google One Tap` · `Media Library` · `Pixels`
 
-**[247mediplus.com →](https://247mediplus.com)**
+**[americansongwriter.com →](https://americansongwriter.com/)**
 
 </td></tr><tr><td width="50%" valign="top">
 
-### SparkLab.ai Dashboard
-**AI Solutions Platform** — multilingual abusive language detection, dynamic e-commerce chatbot, star-to-text converter, user/service/subscription management with custom ACL.
+### [PopCulture](https://popculture.com/)
+**Entertainment & celebrity media** — WordPress VIP for TV, streaming, and celebrity news; One Tap, faster media delivery, and Meta / TikTok / Reddit pixels for traffic.
 
-`Laravel 9` · `MySQL` · `Sanctum Auth` · `Custom ACL`
+`WordPress VIP` · `PHP` · `Google One Tap` · `Media Library` · `Pixels`
 
-Client-owned · private
+**[popculture.com →](https://popculture.com/)**
 
 </td><td width="50%" valign="top">
 
-### 4ART
-**Blockchain Art Authentication** — forgery-proof digital passports for artworks, collection management, provenance tracking. Led a team of 4 engineers across iOS, Android, ReactNative, and web.
+### [ComicBook](https://comicbook.com/)
+**Comics, movies, TV & gaming** — WordPress VIP for a high-traffic entertainment site; optimized media libraries for impressions and pixel stack for acquisition.
 
-`Docker` · `Laravel` · `OpenCV` · `S3` · `SQS` · `ElasticSearch` · `Ethereum Web3` · `Stripe`
+`WordPress VIP` · `PHP` · `Google One Tap` · `Media Library` · `Pixels`
 
-Client-owned · private
+**[comicbook.com →](https://comicbook.com/)**
 
 </td></tr><tr><td width="50%" valign="top">
 
-### Workhub: Bravo
-**Employee Recognition Platform** — social media for teams, messaging, gamification, rewards management, timeline feeds.
+### [InspireMore](https://www.inspiremore.com/)
+**Positive stories & lifestyle media** — WordPress VIP for high-volume content and media; One Tap and tracking pixels to grow returning audience and impressions.
 
-`PHP` · `Laravel` · `MySQL` · `AngularJS`
+`WordPress VIP` · `PHP` · `Google One Tap` · `Media Library` · `Pixels`
 
-Client-owned · private
-
-</td><td width="50%" valign="top">
-
-### BeatDiabetes
-**Patient Health Platform** — multi-programme support for diabetic patients, custom ACL, patient management, periodic reminders, admin dashboards.
-
-`Symfony 3.4` · `MySQL` · `SonataAdmin` · `MailJet`
-
-Client-owned · private
-
-</td></tr><tr><td width="50%" valign="top">
-
-### Ekomi: Smart Review Request
-**Review Collection System** — email & SMS campaigns, review response management, handling millions of records at scale.
-
-`PHP` · `Laravel` · `MySQL` · `RabbitMQ`
-
-Client-owned · private
+**[inspiremore.com →](https://www.inspiremore.com/)**
 
 </td><td width="50%" valign="top">
 
-### Envomart & Nexcart
-**E-commerce & marketplace builds** — Shopify storefronts and Laravel multi-vendor marketplaces with payment integrations.
+### [Sporked](https://sporked.com/)
+**Food & grocery media** — WordPress VIP for product reviews and food news; fast media libraries at scale plus Meta, Spotify, Reddit, and TikTok pixels.
 
-`Shopify` · `Laravel` · `React` · `Payments`
+`WordPress VIP` · `PHP` · `Google One Tap` · `Media Library` · `Pixels`
 
-Client-owned · private
+**[sporked.com →](https://sporked.com/)**
 
 </td></tr></table>
-
-> **Also shipped:** 50+ more platforms in private repos across healthcare, fintech, and SaaS.
 
 ---
 
