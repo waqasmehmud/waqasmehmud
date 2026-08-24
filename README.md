@@ -40,7 +40,11 @@ const waqas = {
 
 > *Savage Ventures — high-traffic media sites on WordPress VIP.*
 
-Shipped **Google One Tap** across the network (traffic lift into the **millions**), sped up high-traffic **media libraries** to increase audience impressions, and rolled out tracking pixels (**Meta, Spotify, Reddit, TikTok**, and more) so traffic and conversions could be measured and grown.
+**Impact across the network**
+
+- **Google One Tap** — implemented One Tap login across Savage Ventures sites, driving a traffic lift into the **millions**
+- **High-traffic media libraries** — made media libraries extremely fast at scale and increased audience impressions
+- **Tracking pixels** — Meta, Spotify, Reddit, TikTok, and more, so traffic and conversions could be measured and grown
 
 <table><tr><td width="50%" valign="top">
 
