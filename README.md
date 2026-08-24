@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+ship+software+that+replaces+manual+work.;PHP+%C2%B7+Laravel+%C2%B7+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;AI+agents+%C2%B7+e-commerce+%C2%B7+healthcare+%C2%B7+SaaS+%C2%B7+FinTech;Shipping+is+the+only+metric+that+matters." />
 
-[![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://slashbrain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
 [![Email](https://img.shields.io/badge/waqasmehmud@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasmehmud@gmail.com)
 
