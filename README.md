@@ -25,7 +25,7 @@ I'm a **Full Stack Developer** — I build and ship web apps, APIs, e-commerce p
 ```ts
 const waqas = {
   role:     "Full Stack Developer",
-  stack:    ["PHP", "Laravel", "Python", "Django", "React", "Next.js", "Node.js"],
+  stack:    ["PHP", "Laravel", "WordPress VIP", "Python", "Django", "React", "Next.js", "Node.js"],
   db:       ["MySQL", "PostgreSQL", "ElasticSearch"],
   cloud:    ["AWS EC2", "ECS", "S3", "SQS", "Docker"],
   ai:       ["OpenAI", "AI Chatbots", "AI Agents", "Automation"],
@@ -39,6 +39,18 @@ const waqas = {
 ## Live Products
 
 > *Production systems you can actually open and use today.*
+
+### Savage Ventures — WordPress VIP
+
+High-traffic media sites on **WordPress VIP**. Shipped product work that moved audience and ad performance at scale:
+
+- **One Tap** — implemented Google One Tap login, which lifted traffic into the **millions**
+- **Media libraries** — made high-traffic media libraries extremely fast and increased audience impressions
+- **Tracking pixels** — Meta, Spotify, Reddit, TikTok, and more, so traffic and conversions could be measured and grown across the network
+
+**Sites:** [VICE](https://www.vice.com/) · [American Songwriter](https://americansongwriter.com/) · [PopCulture](https://popculture.com/) · [ComicBook](https://comicbook.com/) · [InspireMore](https://www.inspiremore.com/) · [Sporked](https://sporked.com/)
+
+`WordPress VIP` · `PHP` · `Google One Tap` · `Media Library` · `Meta Pixel` · `TikTok` · `Reddit` · `Spotify`
 
 <table><tr><td width="50%" valign="top">
 
