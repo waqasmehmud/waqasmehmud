@@ -27,9 +27,9 @@ I also build **AI and automation workflows** with Make.com, OpenAI, and Claude t
 
 ---
 
-## Live Products
+## Savage Ventures
 
-> *Savage Ventures — high-traffic media sites on WordPress VIP.*
+> *High-traffic media sites on WordPress VIP.*
 
 **Impact across the network**
 
