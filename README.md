@@ -17,21 +17,13 @@
 
 ## About
 
-I'm a **Full Stack Developer** — I build and ship web apps, APIs, e-commerce platforms, AI agents, and internal tooling for clients across **30+ countries**.
+**Full Stack Developer** with **16+ years** building scalable web apps in **PHP/Laravel**, **WordPress VIP**, **React**, and **Django**. I ship CMS platforms, SaaS products, and e-commerce systems with clean, SEO-friendly code.
 
-**16+ years** of building production systems across **E-Commerce, HealthCare, FinTech, AI, and SaaS**. I lead engineering teams, design architecture, and make sure things actually ship. **No slideware — shipped products that run businesses.**
+Recent highlights: scaled a high-volume **Laravel CRM** with automated lead workflows and conversion tracking (CRM → Binom → Google), and at **Savage Ventures** delivered **Google One Tap** (traffic lift into the millions), faster high-traffic **media libraries**, and **tracking pixels** (Meta, Spotify, Reddit, TikTok, and more).
 
-```ts
-const waqas = {
-  role:     "Full Stack Developer",
-  stack:    ["PHP", "Laravel", "WordPress VIP", "Python", "Django", "React", "Next.js", "Node.js"],
-  db:       ["MySQL", "PostgreSQL", "ElasticSearch"],
-  cloud:    ["AWS EC2", "ECS", "S3", "SQS", "Docker"],
-  ai:       ["OpenAI", "AI Chatbots", "AI Agents", "Automation"],
-  shipping: ["SaaS", "Healthcare", "FinTech", "E-Commerce", "AI Agents"],
-  motto:    "Ship it. Scale it. Own it.",
-};
-```
+I also build **AI and automation workflows** with Make.com, OpenAI, and Claude to reduce manual work and speed up delivery.
+
+**Stack:** Laravel · WordPress · React · Django · Docker · AWS · Stripe · REST/GraphQL APIs
 
 ---
 
