@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Waqas%20Mehmood&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/waqasmehmud)
 [![Email](https://img.shields.io/badge/waqasmehmud@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasmehmud@gmail.com)
 
 </div>
