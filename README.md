@@ -5,10 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-mehmood--/)
 [![Email](https://img.shields.io/badge/waqasmehmud@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasmehmud@gmail.com)
 
-![GitHub followers](https://img.shields.io/github/followers/waqasmehmud?style=flat-square&label=Followers&color=58A6FF)
-![Profile views](https://komarev.com/ghpvc/?username=waqasmehmud&color=58A6FF&style=flat-square&label=Profile+Views)
-![Open to work](https://img.shields.io/badge/Open_to_work-Yes-58A6FF?style=flat-square)
-
 </div>
 
 ---
