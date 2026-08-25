@@ -131,16 +131,6 @@ const waqas = {
 
 ---
 
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waqasmehmud&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FF6B6B&area=true&area_color=161b22" width="100%" />
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
@@ -152,7 +142,3 @@ const waqas = {
 </picture>
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
